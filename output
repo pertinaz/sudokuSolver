@@ -1,0 +1,217 @@
+[Running] python -u "c:\Users\Czsgt_\Documents\DevProjects\UTP\Gramaticas\Gramaticas_Sudoku\sudoku_v1.1.py"
+Sudoku Solver Demo
+Puzzle Easy
+000000000000003085001020000000507000004000100090000000500000073002010000000040009
+Initial puzzle: complete cells 17 /81. Candidates to remove: 512
+Solved with logic: number of complete cells 81 /81. Candidates to remove: 0
+Logic part took: 35.639986753463745
+Methods used:
+	 0 Simple elimination : 344
+	 1 CSP : 0
+	 2 Backtracking : 168
+987654321246173985351928746128537694634892157795461832519286473472319568863745219
+================================================================================
+Puzzle Medium
+100070009008096300050000020010000000940060072000000040030000080004720100200050003
+Initial puzzle: complete cells 25 /81. Candidates to remove: 448
+Solved with logic: number of complete cells 31 /81. Candidates to remove: 121
+Logic part took: 1.8571531772613525
+Iteration 100000
+Iteration 200000
+Iteration 300000
+Backtracking took: 9.525951862335205 seconds, with 337435 attempts made
+Methods used:
+	 0 Simple elimination : 297
+	 1 CSP : 0
+	 2 Backtracking : 30
+163872459428596317759134628812947536945361872376285941537619284684723195291458763
+================================================================================
+Puzzle Escargot
+100007090030020008009600500005300900010080002600004000300000010041000007007000300
+Initial puzzle: complete cells 24 /81. Candidates to remove: 456
+Solved with logic: number of complete cells 24 /81. Candidates to remove: 159
+Logic part took: 5.216561794281006
+Iteration 100000
+Iteration 200000
+Iteration 300000
+Iteration 400000
+Iteration 500000
+Iteration 600000
+Backtracking took: 15.331513404846191 seconds, with 655922 attempts made
+Methods used:
+	 0 Simple elimination : 297
+	 1 CSP : 0
+	 2 Backtracking : 0
+162857493534129678789643521475312986913586742628794135356478219241935867897261354
+================================================================================
+Puzzle Steering Wheel
+000102000060000070008000900400000003050007000200080001009000805070000060000304000
+Initial puzzle: complete cells 20 /81. Candidates to remove: 488
+Solved with logic: number of complete cells 21 /81. Candidates to remove: 171
+Logic part took: 1.9103589057922363
+Iteration 100000
+Iteration 200000
+Iteration 300000
+Iteration 400000
+Iteration 500000
+Iteration 600000
+Iteration 700000
+Iteration 800000
+Iteration 900000
+Iteration 1000000
+Iteration 1100000
+Iteration 1200000
+Iteration 1300000
+Iteration 1400000
+Iteration 1500000
+Iteration 1600000
+Iteration 1700000
+Iteration 1800000
+Iteration 1900000
+Iteration 2000000
+Iteration 2100000
+Iteration 2200000
+Iteration 2300000
+Iteration 2400000
+Iteration 2500000
+Iteration 2600000
+Iteration 2700000
+Iteration 2800000
+Iteration 2900000
+Iteration 3000000
+Iteration 3100000
+Iteration 3200000
+Iteration 3300000
+Iteration 3400000
+Iteration 3500000
+Iteration 3600000
+Iteration 3700000
+Iteration 3800000
+Iteration 3900000
+Iteration 4000000
+Iteration 4100000
+Iteration 4200000
+Iteration 4300000
+Iteration 4400000
+Iteration 4500000
+Iteration 4600000
+Iteration 4700000
+Iteration 4800000
+Iteration 4900000
+Iteration 5000000
+Iteration 5100000
+Iteration 5200000
+Iteration 5300000
+Iteration 5400000
+Iteration 5500000
+Iteration 5600000
+Iteration 5700000
+Iteration 5800000
+Iteration 5900000
+Iteration 6000000
+Iteration 6100000
+Iteration 6200000
+Iteration 6300000
+Iteration 6400000
+Iteration 6500000
+Backtracking took: 143.04979395866394 seconds, with 6568144 attempts made
+Methods used:
+	 0 Simple elimination : 314
+	 1 CSP : 0
+	 2 Backtracking : 3
+934172658561948372728635914417269583853417296296583741149726835372851469685394127
+================================================================================
+Puzzle Arto Inkala
+800000000003600000070090200050007000000045700000100030001000068008500010090000400
+Initial puzzle: complete cells 21 /81. Candidates to remove: 480
+Solved with logic: number of complete cells 21 /81. Candidates to remove: 194
+Logic part took: 2.797795534133911
+Iteration 100000
+Iteration 200000
+Iteration 300000
+Iteration 400000
+Iteration 500000
+Iteration 600000
+Iteration 700000
+Iteration 800000
+Iteration 900000
+Iteration 1000000
+Iteration 1100000
+Iteration 1200000
+Iteration 1300000
+Iteration 1400000
+Iteration 1500000
+Iteration 1600000
+Iteration 1700000
+Iteration 1800000
+Iteration 1900000
+Iteration 2000000
+Iteration 2100000
+Iteration 2200000
+Iteration 2300000
+Iteration 2400000
+Iteration 2500000
+Iteration 2600000
+Iteration 2700000
+Iteration 2800000
+Iteration 2900000
+Iteration 3000000
+Iteration 3100000
+Iteration 3200000
+Iteration 3300000
+Iteration 3400000
+Iteration 3500000
+Iteration 3600000
+Iteration 3700000
+Iteration 3800000
+Iteration 3900000
+Iteration 4000000
+Iteration 4100000
+Iteration 4200000
+Iteration 4300000
+Iteration 4400000
+Iteration 4500000
+Iteration 4600000
+Iteration 4700000
+Iteration 4800000
+Iteration 4900000
+Iteration 5000000
+Iteration 5100000
+Iteration 5200000
+Iteration 5300000
+Iteration 5400000
+Iteration 5500000
+Iteration 5600000
+Iteration 5700000
+Iteration 5800000
+Iteration 5900000
+Iteration 6000000
+Iteration 6100000
+Iteration 6200000
+Iteration 6300000
+Iteration 6400000
+Iteration 6500000
+Iteration 6600000
+Iteration 6700000
+Iteration 6800000
+Iteration 6900000
+Iteration 7000000
+Iteration 7100000
+Iteration 7200000
+Iteration 7300000
+Iteration 7400000
+Iteration 7500000
+Iteration 7600000
+Iteration 7700000
+Iteration 7800000
+Iteration 7900000
+Iteration 8000000
+Iteration 8100000
+Iteration 8200000
+Iteration 8300000
+Backtracking took: 240.76897525787354 seconds, with 8390443 attempts made
+Methods used:
+	 0 Simple elimination : 286
+	 1 CSP : 0
+	 2 Backtracking : 0
+812753649943682175675491283154237896369845721287169534521974368438526917796318452
