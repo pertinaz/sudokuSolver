@@ -7,5 +7,8 @@ La Implementación es excepcionalmente fácil cuando se usan vectores de bits,po
 # Eliminación sencilla
 La Eliminación Simple es una técnica fundamental que reduce rápidamente las posibilidades en las celdas, especialmente en las primeras etapas de resolución. Es eficiente y puede simplificar drásticamente el rompecabezas.
 
+![hard difficulty using simple implementation](https://github.com/pertinaz/sudokuSolver/assets/87156289/584f3578-4976-46a1-bf2e-695cd7c11451)
+
+
 # CSP (Constraint Satisfaction Problem)
 CSP covers a wide range of techniques including hidden and naked pairs, triples, and quads. It's a powerful method that systematically eliminates impossible values and finds the remaining viable ones by checking permutations. This method can solve more complex puzzles that simple elimination alone cannot handle.
