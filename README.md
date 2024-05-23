@@ -4,8 +4,8 @@ Un enfoque diferente que también utiliza el retroceso, se basa en el hecho de q
 
 La Implementación es excepcionalmente fácil cuando se usan vectores de bits,porque para todas las pruebas solo se necesitan operaciones lógicas en cuanto a bits, en lugar de cualquier iteración anidada en filas y columnas. Se puede lograr una optimización significativa reduciendo aún más los conjuntos de patrones durante el filtrado. Al probar cada patrón cuestionable contra todos los conjuntos reducidos que ya se aceptaron para los otros símbolos, el número total de patrones que quedan para el retroceso disminuye considerablemente.
 
-# Simple Elimination
-Simple Elimination is a fundamental technique that quickly reduces possibilities in cells, especially in the early stages of solving. It's efficient and can drastically simplify the puzzle.
+# Eliminación sencilla
+La Eliminación Simple es una técnica fundamental que reduce rápidamente las posibilidades en las celdas, especialmente en las primeras etapas de resolución. Es eficiente y puede simplificar drásticamente el rompecabezas.
 
 # CSP (Constraint Satisfaction Problem)
 CSP covers a wide range of techniques including hidden and naked pairs, triples, and quads. It's a powerful method that systematically eliminates impossible values and finds the remaining viable ones by checking permutations. This method can solve more complex puzzles that simple elimination alone cannot handle.
